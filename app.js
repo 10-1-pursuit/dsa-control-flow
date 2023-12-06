@@ -1,3 +1,4 @@
+// Putting a code block inside of a function so it only runs when the function is invoked/called
 const fixIt = (moving, shouldBeMoving) => {
     if (moving) {
       if (shouldBeMoving) {
